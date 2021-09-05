@@ -1,0 +1,13 @@
+span{
+    color: rgb(247, 18, 178);
+    
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.carousel-item{
+    height: 500px;
+    background-position: bottom center ;
+}
